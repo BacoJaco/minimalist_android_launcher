@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">minimalist_launcher</string>
+    <string name="AppIcon" />
 </resources>
